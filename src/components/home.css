@@ -1,0 +1,43 @@
+.headerImg {
+  width: 100vw;
+}
+.home {
+  margin-top: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.homeBox {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.menuBox {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+}
+
+.titleHeading {
+  color: rgb(58, 57, 57);
+  letter-spacing: 4px;
+}
+.images {
+  width: 18vw;
+  padding: 20px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.imageRow {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.rows1 {
+  justify-content: center;
+  align-items: center;
+}
